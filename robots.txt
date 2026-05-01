@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-cb3kfp.flaky.network/sitemap.xml
